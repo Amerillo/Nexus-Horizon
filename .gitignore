@@ -1,0 +1,25 @@
+
+# Unity generated files
+/Library/
+/Temp/
+/UIElementsSchema/
+/Logs/
+obj/
+*log
+
+# Meta files in empty directories: must NOT be tracked
+*/.meta
+
+# Visual Studio files
+*.sln
+*.csproj
+*.csproj.user
+*.sln.user
+
+# User and project-specific files
+*.userprefs
+.idea/
+UserSettings/
+
+# MAC-OS specific files
+.DS_Store
